@@ -1,4 +1,6 @@
-* { padding: 0; margin: 0; box-sizing: border-box; color: #000; }
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+* { padding: 0; margin: 0; box-sizing: border-box; color: #000; font-family: 'Noto Sans KR', sans-serif; }
 ul,li,ol { list-style: none; }
 a { text-decoration: none; color: #000; }
 

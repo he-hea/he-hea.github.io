@@ -126,6 +126,12 @@ a { text-decoration: none; color: #000; }
     .works_content img.size03 { padding-top: 15px; }
     .works_content:nth-child(13) img { width: 100%; }
     .works_content:last-child img { width: 150%; transform: translate(0px, -5px); }
+    .works_txt { padding: 20px 0; }
+    .works_txt.padding2, .works_txt.padding3 { padding: 20px 0; }
+    .info_txt { width: 200px; margin-top: 30px; font-size: 14px; }
+    .info_txt.line2, .info_txt.line3 { margin-top: 18px; }
+    .info_txt.line2 + .works_btn, .info_txt.line3 + .works_btn { margin-top: 10px; }
+    .info_txt span { font-size: 9px; }
     .footer { min-width: 230px; width: 320px; }
     .footer p { font-size: 9px; }
 }

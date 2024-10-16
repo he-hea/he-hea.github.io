@@ -49,7 +49,6 @@ a {
 .profile_content ul {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 .profile_content ul li {
   display: flex;

@@ -206,9 +206,9 @@ a {
   width: 60%;
 }
 .works_content:last-child img {
-  width: 100%;
+  width: 145%;
   padding: 10px;
-  transform: translate(70px, -36px);
+  transform: translate(10px, -25px);
 }
 .works_info {
   display: none;
